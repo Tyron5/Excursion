@@ -30,3 +30,63 @@ information contained inside the CSS element(s): Class="cta"
     color: Aquamarine;
     font-size: 16px;
 }
+
+/*
+----------------------CSS Stylesheet Code--------------------
+
+The code below will perform the following actions on all 
+information contained inside the <h1> HTML element 
+
+1) change the font size to 50 pixels
+
+------------------------------------------------------------*/
+
+h1 {
+    font-size: 50px;
+}
+
+/*
+
+/*
+----------------------CSS Stylesheet Code--------------------
+
+The code below will perform the following actions on all 
+information contained inside the <video> HTML element 
+
+1) fit video
+
+------------------------------------------------------------*/
+
+video {
+    object-fit: contain;
+}
+
+/*
+----------------------CSS Stylesheet Code--------------------
+
+The code below will perform the following actions on all 
+information contained inside the <h2> HTML element 
+
+1) change the font size to 42 pixels
+
+------------------------------------------------------------*/
+
+h2 {
+    font-size: 42px;
+}
+
+/*
+----------------------CSS Stylesheet Code--------------------
+
+The code below will perform the following actions on all 
+information contained inside the <p> HTML element 
+
+1) change the font size to 21 pixels
+2) the text color is changed to Gray
+
+------------------------------------------------------------*/
+
+p {
+    color: Gray;
+    font-size: 21px;
+}
