@@ -1,0 +1,32 @@
+/*
+----------------------CSS Stylesheet Code--------------------
+
+The code below will perform the following actions on all 
+information contained inside the <body> HTML element 
+
+1) change the font-family of the webpage to Georgia.
+
+------------------------------------------------------------*/
+
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+/*
+----------------------CSS Stylesheet Code--------------------
+
+The code below will perform the following actions on all 
+information contained inside the CSS element(s): Class="cta" 
+
+1) change the font size to 16 pixels
+2) change the color of the text to Aquamarine
+
+------------------------------------------------------------*/
+
+.cta {
+    color: Aquamarine;
+    font-size: 16px;
+}
