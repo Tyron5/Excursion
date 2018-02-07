@@ -90,3 +90,17 @@ p {
     color: Gray;
     font-size: 21px;
 }
+
+/*
+----------------------CSS Stylesheet Code--------------------
+
+The code below will perform the following actions on all 
+information contained inside the CSS element(s): Class="footer" 
+
+1) shift the text in the footer section to the far right
+
+------------------------------------------------------------*/
+
+.footer {
+    text-align: right;
+}
